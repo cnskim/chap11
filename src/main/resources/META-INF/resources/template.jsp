@@ -18,7 +18,7 @@
 <script type="text/javascript" src="/webjars/bootstrap/3.3.7-1/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+<h1>template.jsp</h1>
 
 </body>
 </html>
