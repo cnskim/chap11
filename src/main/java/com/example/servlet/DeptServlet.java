@@ -1,4 +1,4 @@
-package com.example.servlet;
+package com.example.Servlet;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -15,6 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.example.domain.Dept;
 
+@SuppressWarnings("serial")
 @WebServlet("/dept")
 public class DeptServlet extends HttpServlet {
 
